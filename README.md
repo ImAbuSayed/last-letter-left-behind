@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/last-letter-left-behind/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Last Letter Left Behind](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/last-letter-left-behind/) |
+| **Get License** | [Get License For Last Letter Left Behind](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/last-letter-left-behind/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I left the ink upon the page for you to find
+> A midnight whisper in the fading light
+> I leave the shadows and the world behind
+> To hold you closer in the warm and quiet night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
